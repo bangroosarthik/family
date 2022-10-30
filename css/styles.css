@@ -1,0 +1,137 @@
+body{
+  text-align: center;
+  ;
+  padding-top: 100px;
+  font-family:  'Merriweather',serif;
+  background-color: #81C6E8
+}
+
+
+h1{
+  color: #1F4690;
+  position: absolute;
+  position: relative;
+  font-family: 'Sacramento',cursive;
+  font-size: 5.625rem;
+  //100%=16px
+
+
+  top: 60px;
+  left: 24px;
+}
+
+h2{
+  color:#001D6E;
+}
+h3{
+  color: #1F4690;
+  position: relative;
+  font-family: sans-serif;
+  font-weight: normal;
+
+  margin: 15px,auto;0px;0px;
+  font-size: 1.5rem;
+
+}
+
+.pro{
+  background-color:pink;
+}
+
+.cloud2{
+  display: inline-block;
+  position: absolute;
+  top: 10%;
+  left: 65%;
+}
+
+.cloud1{
+  display: inline-block;
+  position: absolute;
+  top: 35%;
+  left:30%;
+}
+
+.mountain{
+  display: inline-block;
+  position: absolute;
+  top: 50px
+  width: 20%;
+  left:42%;
+}
+
+.middle{
+  display: inline-block;
+  position: relative;
+  top: 400px;
+}
+
+.sarthik{
+  width: 200px;
+  height: 200px;
+
+}
+
+.sarthik:hover{
+  background-color: orange;
+}
+
+.text{
+  position: relative;
+  left: 100px;
+}
+
+.pic{
+  width: 200px;
+  height: 200px;
+}
+
+.pic:hover{
+  background-color: #CFFF8D;
+}#F9F2ED
+
+.gif{
+  position: relative;
+  top: 450px;
+}
+
+.top{
+  background-color: #B8E8FC;
+}
+
+.first{
+  background-color: #B8E8FC;
+}
+
+.mid{
+  background-color: #B8E8FC;
+}
+.line{
+  line-height: 2;
+}
+.Skills{
+  text-align: center;
+}
+
+.gif2{
+  width: 25%;
+  float: left;
+  margin-left: 300px;
+  margin-right: 30px;
+}
+.last{
+  text-align: center;
+}
+
+hr{
+  width: 20%;
+  border-style: dotted none none;
+  border-width: 5px;
+  border-color: #06283D;
+
+
+}
+
+.end{
+  background-color: #B8E8FC;
+}
