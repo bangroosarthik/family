@@ -41,14 +41,14 @@ h3{
 .cloud2{
   display: inline-block;
   position: absolute;
-  top: 10%;
+  top: 5%;
   left: 65%;
 }
 
 .cloud1{
   display: inline-block;
   position: absolute;
-  top: 35%;
+  top: 25%;
   left:30%;
 }
 
